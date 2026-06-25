@@ -14,10 +14,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 #
 
-### Hash Table
-| Problem | Solution |
-|---------|----------|
-| Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
+#
 
 ---
 
@@ -39,6 +36,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,4 +49,29 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Hash Table
+|  |
+| ------- |
+| Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
