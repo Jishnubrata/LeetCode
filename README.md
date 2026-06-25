@@ -12,10 +12,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 
 ## LeetCode Topics
 
-### Array
-| Problem | Solution |
-|---------|----------|
-| Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
+#
 
 ### Hash Table
 | Problem | Solution |
@@ -34,3 +31,24 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ---
 
 *This repository is automatically updated using LeetHub v2.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
+<!---LeetCode Topics End-->
