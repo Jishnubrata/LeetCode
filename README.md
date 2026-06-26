@@ -35,11 +35,13 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
