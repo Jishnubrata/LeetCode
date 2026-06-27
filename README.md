@@ -76,4 +76,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Jishnubrata/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
