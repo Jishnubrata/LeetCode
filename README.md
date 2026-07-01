@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [1929-concatenation-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jishnubrata/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
@@ -94,4 +95,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
