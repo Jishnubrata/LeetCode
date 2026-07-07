@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jishnubrata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/Jishnubrata/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Jishnubrata/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Jishnubrata/LeetCode/tree/master/0189-rotate-array) |
@@ -117,4 +118,9 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jishnubrata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
