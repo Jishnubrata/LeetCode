@@ -71,6 +71,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Jishnubrata/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -100,6 +101,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Jishnubrata/LeetCode/tree/master/0058-length-of-last-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jishnubrata/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -119,6 +121,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Jishnubrata/LeetCode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
