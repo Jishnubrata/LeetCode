@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jishnubrata/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
@@ -53,6 +54,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Jishnubrata/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -121,6 +123,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jishnubrata/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jishnubrata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -131,4 +134,12 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jishnubrata/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
