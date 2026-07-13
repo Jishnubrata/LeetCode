@@ -145,4 +145,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Jishnubrata/LeetCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
