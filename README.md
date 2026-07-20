@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Jishnubrata/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
@@ -103,6 +104,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Jishnubrata/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Jishnubrata/LeetCode/tree/master/0058-length-of-last-word) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jishnubrata/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -157,4 +159,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jishnubrata/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Jishnubrata/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
