@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | Two Sum | [0001-two-sum](https://github.com/Jishnubrata/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Jishnubrata/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Jishnubrata/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
@@ -56,6 +57,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jishnubrata/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
@@ -114,6 +116,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Jishnubrata/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jishnubrata/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jishnubrata/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
