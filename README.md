@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Jishnubrata/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Jishnubrata/LeetCode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jishnubrata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Jishnubrata/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Jishnubrata/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jishnubrata/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -175,4 +177,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jishnubrata/LeetCode/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Jishnubrata/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
