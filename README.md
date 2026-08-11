@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [1929-concatenation-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jishnubrata/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jishnubrata/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Jishnubrata/LeetCode/tree/master/0169-majority-element) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jishnubrata/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -121,6 +123,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jishnubrata/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jishnubrata/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jishnubrata/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jishnubrata/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
