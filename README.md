@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Jishnubrata/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Jishnubrata/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Jishnubrata/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jishnubrata/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -124,6 +125,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Jishnubrata/LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Jishnubrata/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Jishnubrata/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Jishnubrata/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jishnubrata/LeetCode/tree/master/0242-valid-anagram) |
@@ -189,4 +191,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Jishnubrata/LeetCode/tree/master/0048-rotate-image) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Jishnubrata/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
