@@ -198,4 +198,12 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Jishnubrata/LeetCode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jishnubrata/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Jishnubrata/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
