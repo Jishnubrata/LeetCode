@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jishnubrata/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jishnubrata/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/Jishnubrata/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jishnubrata/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/Jishnubrata/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
