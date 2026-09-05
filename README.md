@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jishnubrata/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Jishnubrata/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jishnubrata/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Jishnubrata/LeetCode/tree/master/0027-remove-element) |
@@ -121,6 +122,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jishnubrata/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jishnubrata/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Jishnubrata/LeetCode/tree/master/0058-length-of-last-word) |
@@ -162,6 +164,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jishnubrata/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jishnubrata/LeetCode/tree/master/0055-jump-game) |
@@ -212,4 +215,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Jishnubrata/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Jishnubrata/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
