@@ -219,4 +219,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jishnubrata/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Jishnubrata/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
