@@ -222,6 +222,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Jishnubrata/LeetCode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Jishnubrata/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Jishnubrata/LeetCode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
