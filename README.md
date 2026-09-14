@@ -156,6 +156,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0048-rotate-image](https://github.com/Jishnubrata/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Jishnubrata/LeetCode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jishnubrata/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Jishnubrata/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jishnubrata/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jishnubrata/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -225,4 +226,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0197-rising-temperature](https://github.com/Jishnubrata/LeetCode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Jishnubrata/LeetCode/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Jishnubrata/LeetCode/tree/master/1148-article-views-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jishnubrata/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
