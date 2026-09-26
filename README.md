@@ -54,6 +54,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0238-product-of-array-except-self](https://github.com/Jishnubrata/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Jishnubrata/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jishnubrata/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jishnubrata/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jishnubrata/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0169-majority-element](https://github.com/Jishnubrata/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Jishnubrata/LeetCode/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jishnubrata/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Jishnubrata/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -129,6 +131,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0151-reverse-words-in-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jishnubrata/LeetCode/tree/master/0242-valid-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jishnubrata/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
