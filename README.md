@@ -130,6 +130,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0058-length-of-last-word](https://github.com/Jishnubrata/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jishnubrata/LeetCode/tree/master/0242-valid-anagram) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jishnubrata/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jishnubrata/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -187,6 +188,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -235,4 +237,8 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Jishnubrata/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
