@@ -127,6 +127,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 | [0005-longest-palindromic-substring](https://github.com/Jishnubrata/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Jishnubrata/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jishnubrata/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Jishnubrata/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Jishnubrata/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Jishnubrata/LeetCode/tree/master/0242-valid-anagram) |
@@ -172,6 +173,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Jishnubrata/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Jishnubrata/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Jishnubrata/LeetCode/tree/master/0055-jump-game) |
@@ -240,5 +242,10 @@ This repository contains my solutions to LeetCode problems, organized by problem
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
