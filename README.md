@@ -194,6 +194,7 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jishnubrata/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishnubrata/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Jishnubrata/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
@@ -255,4 +256,16 @@ This repository contains my solutions to LeetCode problems, organized by problem
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jishnubrata/LeetCode/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishnubrata/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishnubrata/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jishnubrata/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
